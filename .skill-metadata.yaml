@@ -1,0 +1,41 @@
+examples:
+  - id: create-web-card
+    title:
+      zh: 创建网络名片
+      en: Create Web Business Card
+    description:
+      zh: 从零开始搭建网络名片并部署到阿里云ECS
+      en: Build a web business card from scratch and deploy to Alibaba Cloud ECS
+    prompt:
+      zh: 我想搭建我的网络名片
+      en: I want to build my web business card
+  - id: deploy-website-to-ecs
+    title:
+      zh: 部署网站到云服务器
+      en: Deploy Website to ECS
+    description:
+      zh: 将本地网站项目部署到已创建的ECS
+      en: Deploy a local website project to the created ECS instance
+    prompt:
+      zh: 我的网站代码在本地写好了，帮我部署到云服务器上
+      en: My website code is ready locally, help me deploy it to the cloud server
+  - id: release-ecs
+    title:
+      zh: 释放云服务器
+      en: Release ECS Resources
+    description:
+      zh: 释放按量付费的ECS及相关资源
+      en: Release pay-as-you-go ECS and related resources
+    prompt:
+      zh: 我不需要这个网络名片了，帮我释放服务器
+      en: I don't need this web card anymore, help me release the server
+  - id: convert-to-annual
+    title:
+      zh: 按量转包年
+      en: Convert to Annual Subscription
+    description:
+      zh: 将按量付费ECS转为包年包月
+      en: Convert pay-as-you-go ECS to annual subscription
+    prompt:
+      zh: 我很满意这个网络名片，想让它一直在线，帮我转成包年
+      en: I'm happy with this web card, I want it to stay online, convert to annual plan
